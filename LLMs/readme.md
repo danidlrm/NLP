@@ -82,12 +82,4 @@ Large Language Models are deep neural networks—typically based on Transformer 
 - 🏛️ [Stanford CS224N](https://web.stanford.edu/class/cs224n/)
 - 📡 [OpenAI Cookbook](https://github.com/openai/openai-cookbook)
 
----
 
-## 🪶 Final Note
-
-This is not merely an academic pursuit. It is a poetic endeavor—a dialogue between mathematics and language, structure and spontaneity. When engaging with LLMs, we are building architectures not only of logic, but of meaning.
-
-> *Let the machine learn our language, and perhaps, in the process, we learn a little more about ourselves.*
-
----
