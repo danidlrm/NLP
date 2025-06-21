@@ -1,4 +1,4 @@
-This & that stuff about natural languaje processing
+This & that stuff about natural language processing
 
 
 Tools:
